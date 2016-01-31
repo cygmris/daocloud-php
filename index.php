@@ -1,4 +1,4 @@
 <?php
-echo "TestDocker";
+echo "TestDocker&add CI";
 phpinfo();
 ?>
